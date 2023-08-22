@@ -5,7 +5,7 @@
 
 ![logo](https://github.com/prajinpatil42/Dark_Light/blob/main/Images/1.png)
 
-<h1>After clicked on logo you can see change</h1>
+<h1>After clicked on the logo you can see the change</h1>
 
 <h1>javascript toggle Light mode</h1>
 
